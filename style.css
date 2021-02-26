@@ -17,12 +17,12 @@ body {
   	grid-column: 1  / span 2;
   	grid-row: span 2;
   	background-image: url("img/gif2.gif");
-  	background-size: 632px 420px;
+  	background-size: 822px 420px;
   	background-repeat: none;
 }
 .item2 {
 	background-image: url("img/img1.jpg");
-	background-size: 306px 420px;
+	background-size: 401px 420px;
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
@@ -31,7 +31,7 @@ body {
 
 .item3 {
 	background-image: url("img/img8.jpg");
-	background-size: 306px 640px;
+	background-size: 410px 640px;
 	overflow: hidden;
 	display: grid;
 	grid-row: span 3;
@@ -40,7 +40,7 @@ body {
 
 .item4{
 	background-image: url("img/img2.jpg");
-	background-size: cover;
+	background-size: 401px 200px;
 	overflow: hidden;
 	display: grid;
 	background-repeat: none;
@@ -49,7 +49,7 @@ body {
 
 .item5 {
 	background-image: url("img/img10.jpg");
-	background-size: cover;
+	background-size: 822px 420px;
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
@@ -60,7 +60,7 @@ body {
 
 .item6{
 	background-image: url("img/img3.jpg");
-	background-size: cover;
+	background-size: 401px 420px;
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
@@ -70,7 +70,7 @@ body {
 
 .item7{
 	background-image: url("img/img6.jpg");
-	background-size: cover;
+	background-size: 401px 420px;
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
@@ -80,7 +80,7 @@ body {
 
 .item8{
 	background-image: url("img/img11.jpg");
-	background-size: cover;
+	background-size: 401px 200px;
 	background-repeat: none;
 	overflow: hidden;
 	display: grid;
@@ -89,7 +89,7 @@ body {
 
 .item9{
 	background-image: url("img/gif1.gif");
-	background-size: cover;
+	background-size: 401px 200px;
 	background-repeat: none;
 	overflow: hidden;
 	display: grid;
