@@ -43,6 +43,7 @@ body {
 	overflow: hidden;
 	display: grid;
 	background-repeat: none;
+	position: fixed;
 }
 
 .item5 {
@@ -53,6 +54,7 @@ body {
 	grid-row: span 2;
 	grid-column: span 2;
 	background-repeat: none;
+	position: fixed;
 }
 
 .item6{
@@ -62,6 +64,7 @@ body {
 	display: grid;
 	grid-row: span 2;
 	background-repeat: none;
+	position: fixed;
 }
 
 .item7{
@@ -71,6 +74,7 @@ body {
 	display: grid;
 	grid-row: span 2;
 	background-repeat: none;
+	position: fixed;
 }
 
 .item8{
@@ -79,6 +83,7 @@ body {
 	background-repeat: none;
 	overflow: hidden;
 	display: grid;
+	position: fixed;
 }
 
 .item9{
@@ -87,4 +92,5 @@ body {
 	background-repeat: none;
 	overflow: hidden;
 	display: grid;
+	position: fixed;
 }
