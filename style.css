@@ -7,7 +7,6 @@ body {
   	grid-gap: 20px;
     grid-auto-rows: 200px;
     grid-template-columns: auto auto auto auto;
-    position: fixed;
 }
 
 /*Define styles for grid items here*/
