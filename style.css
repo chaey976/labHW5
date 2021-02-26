@@ -17,6 +17,7 @@ body {
   	grid-row: span 2;
   	background-image: url("img/gif2.gif");
   	background-size: 632px 420px;
+  	background-repeat: none;
 }
 .item2 {
 	background-image: url("img/img1.jpg");
@@ -24,6 +25,7 @@ body {
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
+	background-repeat: none;
 }
 
 .item3 {
@@ -32,6 +34,7 @@ body {
 	overflow: hidden;
 	display: grid;
 	grid-row: span 3;
+	background-repeat: none;
 }
 
 .item4{
@@ -39,6 +42,7 @@ body {
 	background-size: 306px 230px;
 	overflow: hidden;
 	display: grid;
+	background-repeat: none;
 }
 
 .item5 {
@@ -48,6 +52,7 @@ body {
 	display: grid;
 	grid-row: span 2;
 	grid-column: span 2;
+	background-repeat: none;
 }
 
 .item6{
@@ -56,6 +61,7 @@ body {
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
+	background-repeat: none;
 }
 
 .item7{
@@ -64,14 +70,21 @@ body {
 	overflow: hidden;
 	display: grid;
 	grid-row: span 2;
+	background-repeat: none;
 }
 
 .item8{
 	background-image: url("img/img11.jpg");
 	background-size: 330px 200px;
+	background-repeat: none;
+	overflow: hidden;
+	display: grid;
 }
 
 .item9{
 	background-image: url("img/gif1.gif");
 	background-size: 330px 200px;
+	background-repeat: none;
+	overflow: hidden;
+	display: grid;
 }
